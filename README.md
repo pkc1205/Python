@@ -5,6 +5,7 @@
 #Selection Sort
 #Quick Sort
 #Merge Sort
+#Bubble Sort
 
 # Python Advanced Program
 Palindromes
