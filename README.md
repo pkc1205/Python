@@ -6,7 +6,9 @@
 #Quick Sort
 #Merge Sort
 #Bubble Sort
-
+#PostFix Evaluation
+#infix to post fix
+#Palindromes
 # Python Advanced Program
-Palindromes
+
 # Python Expert Programs
