@@ -11,4 +11,3 @@
 #Palindromes
 #Recursion of Sum of numbers
 #Basic Tree Operations 
-# Python Expert Programs
