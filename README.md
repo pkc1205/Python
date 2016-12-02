@@ -10,7 +10,5 @@
 #infix to post fix
 #Palindromes
 #Recursion of Sum of numbers
-#Basic Tree Operations
-# Python Advanced Program
-
+#Basic Tree Operations 
 # Python Expert Programs
