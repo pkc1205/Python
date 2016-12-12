@@ -11,7 +11,5 @@
 #Palindromes
 #Recursion of Sum of numbers
 #Basic Tree Operations 
-# Python Advanced Programs
 
-# Python Expert Programs
 
