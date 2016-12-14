@@ -1,4 +1,4 @@
-#Converting Infix Expressions to Postfix Expressions (intopost)
+#Converting Infix Expressions to Postfix Expressions (inixtopostfix)
 from pythonds.basic.stack import Stack
 
 def infixToPostfix(infixexpr):
