@@ -44,7 +44,7 @@ insertLeft(l,11)
 print(r)
 print(getRightChild(getRightChild(r)))
 
-Output
+Output:
 
 [5, [4, [], []], []]
 [3, [9, [4, [], []], []], [7, [], [6, [], []]]]
